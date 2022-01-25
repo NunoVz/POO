@@ -13,5 +13,8 @@ Cadeira do 2º ano 1º semestre de Engenharia Informática na universidade de Co
 
 Trabalho Final = 5.08 em 6
 
+Nota final trabalhos=8.30 em 10
 
-Nota final 8.30 em 10
+Nota Exame=8
+
+Nota Final=16.3
