@@ -17,4 +17,4 @@ Nota final trabalhos=8.30 em 10
 
 Nota Exame=8
 
-Nota Final=16.3
+Nota Final=17
